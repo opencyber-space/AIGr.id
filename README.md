@@ -5,13 +5,16 @@
 
 ---
 
-## 🚀 Production Ready
 
-This project is **production-grade** and ready for deployment in mission-critical environments.
+>
+> ## 🚀 Production Ready
+>
+> This project is **production-grade** and ready for deployment in mission-critical environments.
+>
+> 🧪 **The Testnet launched in June 2025 and successfully completed its testing phase in May 2026.**
+>
+> 💬 We continue to welcome feedback, contributions, and community participation as the platform evolves.
 
-🧪 **The Testnet launched in June 2025 and successfully completed its testing phase in May 2026.**
-
-💬 We continue to welcome feedback, contributions, and community participation as the platform evolves.
 
 ---
 
