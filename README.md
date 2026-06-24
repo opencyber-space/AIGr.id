@@ -5,16 +5,12 @@
 
 ---
 
-
->
-> ## 🚀 Production Ready
+> 🚀 **Production Ready**
 >
 > This project is **production-grade** and ready for deployment in mission-critical environments.
 >
-> 🧪 **The Testnet launched in June 2025 and successfully completed its testing phase in May 2026.**
+> 🧪 **Testnet:** Launched in **June 2025** and successfully completed in **May 2026**. Selected benchmark results, evaluations, and demonstrations from the testnet phase can be found here: [OpenAGI Network Playlists](https://www.youtube.com/@OpenAGI.network/playlists?utm_source=chatgpt.com).
 >
-> 💬 We continue to welcome feedback, contributions, and community participation as the platform evolves.
-
 
 ---
 
