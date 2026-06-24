@@ -3,8 +3,17 @@
 ![AIOS](https://img.shields.io/badge/%20Powered%20by-AIOS:_AI_Operating_System-blueviolet?style=for-the-badge) &nbsp;&nbsp;
 ![Repo Size](https://img.shields.io/badge/Repo%20Size-Large%20•%20149.1k%20LOC-blue?style=for-the-badge)
 
+---
 
+## 🚀 Production Ready
 
+This project is **production-grade** and ready for deployment in mission-critical environments.
+
+🧪 **The Testnet launched in June 2025 and successfully completed its testing phase in May 2026.**
+
+💬 We continue to welcome feedback, contributions, and community participation as the platform evolves.
+
+---
 
 ## 🌐 AIGrid
 
@@ -195,12 +204,6 @@ Each **opMode** represents a distinct configuration of how AIs and agents **coll
 
 ---
 
- 🚧 **Beta Notice**  
-> This project is currently in **beta** and not ready for production deployment.  
-> 🧪 A **Testnet** is expected to launch in **June 2025**.  
-> 💬 In the meantime, we **welcome your feedback** and contributions!
-
----
 
 ## 📢 Communications
 
