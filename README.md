@@ -1,4 +1,4 @@
-# 🧠 **AIGr.id: Open Intelligence Web**
+# 🧠 **AIGr.id: Open Internet of Intelligence**
 ![Beta](https://img.shields.io/badge/STATUS-BETA-yellow.svg?style=for-the-badge) &nbsp;&nbsp;
 ![AIOS](https://img.shields.io/badge/%20Powered%20by-AIOS:_AI_Operating_System-blueviolet?style=for-the-badge) &nbsp;&nbsp;
 ![Repo Size](https://img.shields.io/badge/Repo%20Size-Large%20•%20149.1k%20LOC-blue?style=for-the-badge)
@@ -21,8 +21,8 @@
 - 🤝 **Inter AI Communications**
 - 🛰️ **Decentralized discovery, matchmaking, routing and democratized access of AIs**
 - 🕸️ **Multiple AI to Share network resources**  
-- 🤖 **Autonomously Coordinate with other AI's to perform tasks**  
-- 🧠 **Self organize and composition into higher-level collective intelligence**
+- 🤖 **Autonomously Coordinate or be orchestrated with other AI's to perform tasks**  
+- 🧠 **Self organize and compose into higher-level collective intelligence**
 
 All powered by **standardized protocols** via **AIOS** (AI Operating System).
 
