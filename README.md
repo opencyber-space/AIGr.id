@@ -1,5 +1,4 @@
 # 🧠 **AIGr.id: Open Internet of Intelligence**
-![Beta](https://img.shields.io/badge/STATUS-BETA-yellow.svg?style=for-the-badge) &nbsp;&nbsp;
 ![AIOS](https://img.shields.io/badge/%20Powered%20by-AIOS:_AI_Operating_System-blueviolet?style=for-the-badge) &nbsp;&nbsp;
 ![Repo Size](https://img.shields.io/badge/Repo%20Size-Large%20•%20149.1k%20LOC-blue?style=for-the-badge)
 
